@@ -1,0 +1,272 @@
+[
+    {
+        "link1351": "https://imvahonshya.co.rw/umuyobozi-wa-who-muri-afurika-yashimye-imbaraga-zashyizwe-mu-guhashya-marburg/"
+    },
+    {
+        "link1352": "https://imvahonshya.co.rw/ruhango-amavuriro-yingoboka-11-agiye-kwegurirwa-abikorera/"
+    },
+    {
+        "link1353": "https://imvahonshya.co.rw/urugendo-rwubuzima-bwa-nyakwigendera-amb-col-rtd-dr-karemera/"
+    },
+    {
+        "link1354": "https://imvahonshya.co.rw/menya-impamvu-utagomba-gusiga-uburoso-bwamenyo-mu-bwiherero/"
+    },
+    {
+        "link1355": "https://imvahonshya.co.rw/abasura-u-rwanda-nta-mpungenge-batewe-nicyorezo-cya-marburg/"
+    },
+    {
+        "link1356": "https://imvahonshya.co.rw/abantu-6-akize-marburg-hapfa-1/"
+    },
+    {
+        "link1357": "https://imvahonshya.co.rw/ruhango-bafite-akanyamuneza-nyuma-yo-guhabwa-abaganga-bavura-amenyo/"
+    },
+    {
+        "link1358": "https://imvahonshya.co.rw/marburg-hakize-babiri-nta-watakaje-ubuzima/"
+    },
+    {
+        "link1359": "https://imvahonshya.co.rw/mu-minsi-irindwi-ishize-hagaragaye-abakize-kurusha-abahitanwe-na-marburg/"
+    },
+    {
+        "link1360": "https://imvahonshya.co.rw/oms-igaragaza-ko-nta-mpamvu-yo-guhagarika-ingendo-nibikorwa-kubera-marburg/"
+    },
+    {
+        "link1361": "https://imvahonshya.co.rw/kamonyi-batatu-baguye-mu-mpanuka-abasaga-30-barakomereka/"
+    },
+    {
+        "link1362": "https://imvahonshya.co.rw/u-rwanda-rwakiriye-doze-1000-zinkingo-za-marburg/"
+    },
+    {
+        "link1363": "https://imvahonshya.co.rw/hakize-babiri-ntawanduye-nta-nuwapfuye/"
+    },
+    {
+        "link1364": "https://imvahonshya.co.rw/kutita-ku-buzima-bwo-mu-mutwe-bwabakozi-ni-imbogamizi-ku-musaruro/"
+    },
+    {
+        "link1365": "https://imvahonshya.co.rw/oms-yasabye-ibihugu-kudaha-akato-u-rwanda/"
+    },
+    {
+        "link1366": "https://imvahonshya.co.rw/abantu-3-bakize-marburg-nta-wapfuye-hamaze-gutangwa-inkingo-346/"
+    },
+    {
+        "link1367": "https://imvahonshya.co.rw/gakenke-gatonde-kutagira-kaburimbo-bituma-imbangukiragutabara-ibageraho-itinze/"
+    },
+    {
+        "link1368": "https://imvahonshya.co.rw/perezida-kagame-yashimiye-abataratinye-marburg-bakitabira-inama-ya-biashara-afrika/"
+    },
+    {
+        "link1369": "https://imvahonshya.co.rw/who-irategenya-gutera-inkunga-u-rwanda-ya-miliyari-9-frw-zo-guhangana-na-marburg/"
+    },
+    {
+        "link1370": "https://imvahonshya.co.rw/kigali-uwihagarika-ahatemewe-acibwa-10-000-frw/"
+    },
+    {
+        "link1371": "https://imvahonshya.co.rw/amerika-yatanze-miliyari-15-frw-zifasha-u-rwanda-nabaturanyi-kurwanya-marburg/"
+    },
+    {
+        "link1372": "https://imvahonshya.co.rw/minisante-yasubije-abafite-impungenge-ku-rukingo-rwa-marburg/"
+    },
+    {
+        "link1373": "https://imvahonshya.co.rw/gupima-umuriro-abajya-mu-nsengero-nimisigiti-byagaruwe-na-marburg/"
+    },
+    {
+        "link1374": "https://imvahonshya.co.rw/mu-bamaze-kwicwa-na-marburg-mu-rwanda-harimo-umwana/"
+    },
+    {
+        "link1375": "https://imvahonshya.co.rw/minisante-iratangira-gukingira-marburg-kuri-iki-cyumweru/"
+    },
+    {
+        "link1376": "https://imvahonshya.co.rw/agenda-kuri-moto-basabwe-kugira-amakenga-ya-kasike-mu-kwirinda-marburg/"
+    },
+    {
+        "link1377": "https://imvahonshya.co.rw/dr-tedros-yashimangiye-ko-oms-izakomeza-gufasha-u-rwanda-guhashya-marburg/"
+    },
+    {
+        "link1378": "https://imvahonshya.co.rw/habonetse-abarwayi-bashya-4-hapfa-umuntu-1/"
+    },
+    {
+        "link1379": "https://imvahonshya.co.rw/ikigo-gilead-sciences-cyemereye-u-rwanda-doze-5000-byumuti-wa-marburg/"
+    },
+    {
+        "link1380": "https://imvahonshya.co.rw/abanduye-mpox-muri-afurika-bageze-ku-35-000/"
+    },
+    {
+        "link1381": "https://imvahonshya.co.rw/abasura-u-rwanda-basabwe-kudakangwa-na-virusi-ya-marburg/"
+    },
+    {
+        "link1382": "https://imvahonshya.co.rw/abantu-batanu-bakize-icyorezo-cya-marburg-nta-wapfuye/"
+    },
+    {
+        "link1383": "https://imvahonshya.co.rw/mu-rwanda-abahuye-nabanduye-marburg-bageze-kuri-410/"
+    },
+    {
+        "link1384": "https://imvahonshya.co.rw/mu-rwanda-habonetse-abarwayi-7-bashya-ba-vurusi-ya-marburg/"
+    },
+    {
+        "link1385": "https://imvahonshya.co.rw/uturere-7-twagaragayemo-abarwayi-ba-marburg-mu-rwanda/"
+    },
+    {
+        "link1386": "https://imvahonshya.co.rw/rutsiro-barasaba-gufungurirwa-ivuriro-rimaze-amezi-6-ridakora/"
+    },
+    {
+        "link1387": "https://imvahonshya.co.rw/abarwayi-ba-marburg-biyongereyeho-2-hapfa-nundi-1/"
+    },
+    {
+        "link1388": "https://imvahonshya.co.rw/ncda-yakomoje-ku-nkomoko-yimyitwarire-mibi-yabana/"
+    },
+    {
+        "link1389": "https://imvahonshya.co.rw/abanduye-virusi-ya-marburg-ni-27-imaze-guhitana-9/"
+    },
+    {
+        "link1390": "https://imvahonshya.co.rw/mu-rwanda-hatangijwe-ubukangurambaga-bwo-kurwanya-igwingira-mu-bana-nimirire-mibi/"
+    },
+    {
+        "link1391": "https://imvahonshya.co.rw/nyaruguru-nta-makuru-bafite-ku-cyorezo-cya-marburg-barakitiranya-na-malariya/"
+    },
+    {
+        "link1392": "https://imvahonshya.co.rw/umwe-mu-barwayi-26-bamaze-kugaragarwaho-marburg-ni-uwo-muri-nyagatare/"
+    },
+    {
+        "link1393": "https://imvahonshya.co.rw/banki-yisi-yageneye-u-rwanda-miliyari-271-frw-zifasha-urubyiruko/"
+    },
+    {
+        "link1394": "https://imvahonshya.co.rw/impamvu-bnr-yahinduye-inoti-ya-5000-niya-2000/"
+    },
+    {
+        "link1395": "https://imvahonshya.co.rw/uko-u-rwanda-rwakuze-rukaba-igihugu/"
+    },
+    {
+        "link1396": "https://imvahonshya.co.rw/rutaremara-agiye-kwifashisha-youtube-yigisha-amateka/"
+    },
+    {
+        "link1397": "https://imvahonshya.co.rw/inkomoko-yumunsi-wijyanwa-mu-ijuru-rya-bikira-mariya-assumption/"
+    },
+    {
+        "link1398": "https://imvahonshya.co.rw/sobanukirwa-nindahiro-yumukuru-wigihugu-nibirango-ahabwa/"
+    },
+    {
+        "link1399": "https://imvahonshya.co.rw/ingurube-ubwayo-igira-isuku-kwivuruguta-ni-uburyo-ifatwa-inzobere-mu-bworozi/"
+    },
+    {
+        "link1400": "https://imvahonshya.co.rw/itegeko-rishya-rigenga-abantu-numuryango-rizatanga-ubwisanzure-mu-micungire-yumutungo/"
+    },
+    {
+        "link1401": "https://imvahonshya.co.rw/amateka-yumuganura-nuko-wizihizwaga-mu-rwanda/"
+    },
+    {
+        "link1402": "https://imvahonshya.co.rw/sobanukirwa-amabwiriza-yo-gukumira-kuvura-indwara-no-kuvugurura-icyororo/"
+    },
+    {
+        "link1403": "https://imvahonshya.co.rw/munyakazi-yavuye-imuzi-ku-isano-yabikorera-na-politiki/"
+    },
+    {
+        "link1404": "https://imvahonshya.co.rw/umuhoza-vanessa-umwe-mu-badepite-bashya-bahagarariye-urubyiruko-ni-muntu-ki/"
+    },
+    {
+        "link1405": "https://imvahonshya.co.rw/ngoma-barashima-abusol-ltd-yaboroje-inkoko-ikabegereza-namagi-abarinda-igwingira/"
+    },
+    {
+        "link1406": "https://imvahonshya.co.rw/abiga-ubumenyi-ngiro-muri-nyamata-tss-batandukana-nubushomeri/"
+    },
+    {
+        "link1407": "https://imvahonshya.co.rw/kaminuza-yu-rwanda-yashoye-hafi-miliyari-5-frw-mu-bushakashatsi/"
+    },
+    {
+        "link1408": "https://imvahonshya.co.rw/byinshi-kuri-karame-rwanda-ltd-imaze-kuba-ubukombe-mu-bwubatsi-bwimihanda/"
+    },
+    {
+        "link1409": "https://imvahonshya.co.rw/kigali-premier-bet-yahembye-abakiliya-bakadasohoka-ibaagurira-ishami/"
+    },
+    {
+        "link1410": "https://imvahonshya.co.rw/kigali-aravuga-imyato-premier-bet-yamuhaye-iduka-ryayo-rishya/"
+    },
+    {
+        "link1411": "https://imvahonshya.co.rw/baravuga-imyato-ibitaro-bya-kabgayi-bivura-amaso-byabarinze-ubuhumyi/"
+    },
+    {
+        "link1412": "https://imvahonshya.co.rw/ihuriro-rya-5-ku-bufatanye-hagati-yitangazamakuru-ryafurika-nu-bushinwa-ryabereye-beijing/"
+    },
+    {
+        "link1413": "https://imvahonshya.co.rw/title-premier-projects-launches-a-new-basketball-arena-in-rwanda/"
+    },
+    {
+        "link1414": "https://imvahonshya.co.rw/congo-brazzaville-byari-ibirori-bizihiza-umunsi-wo-kwibohora-28-amafoto/"
+    },
+    {
+        "link1415": "https://imvahonshya.co.rw/uburyo-6-u-rwanda-rukoresha-amazi-neza-mu-guhangana-nimihindagurikire-yikirere/"
+    },
+    {
+        "link1416": "https://imvahonshya.co.rw/uko-u-rwanda-rushyize-imbere-amashyamba-mu-guhangana-nimihindagurikire-yikirere/"
+    },
+    {
+        "link1417": "https://imvahonshya.co.rw/amavubi-yatangiye-umwiherero-yitegura-djibouti-mu-gushaka-itike-ya-chan-2024/"
+    },
+    {
+        "link1418": "https://imvahonshya.co.rw/uko-abanyarwanda-bakina-hanze-bitwaye-mu-mpera-zicyumweru-10/"
+    },
+    {
+        "link1419": "https://imvahonshya.co.rw/apr-fc-yabonye-itsinzi-ya-mbere-muri-shampiyona/"
+    },
+    {
+        "link1420": "https://imvahonshya.co.rw/kigali-abapolisi-bahize-abandi-muri-karate-bambitswe-imidali/"
+    },
+    {
+        "link1421": "https://imvahonshya.co.rw/rayon-sports-yatsinze-bugesera-fc-ifata-umwanya-wa-kabiri-2/"
+    },
+    {
+        "link1422": "https://imvahonshya.co.rw/volleyball-ibyo-wamenya-kuri-shampiyona-ya-2024-25/"
+    },
+    {
+        "link1423": "https://imvahonshya.co.rw/buregeya-prince-yasinyiye-as-kigali/"
+    },
+    {
+        "link1424": "https://imvahonshya.co.rw/police-vc-yerekanye-abakinnyi-batatu-yaguze/"
+    },
+    {
+        "link1425": "https://imvahonshya.co.rw/sudani-yepfo-ingabo-zu-rwanda-muri-unmiss-zigishije-abangavu-kwirwanaho/"
+    },
+    {
+        "link1426": "https://imvahonshya.co.rw/reg-wbbc-na-apr-wbbc-zizahagararira-u-rwanda-mu-mikino-ya-zone-v-mu-bagore/"
+    },
+    {
+        "link1427": "https://imvahonshya.co.rw/thomas-tuchel-yagizwe-umutoza-wu-bwongereza/"
+    },
+    {
+        "link1428": "https://imvahonshya.co.rw/amavubi-yatsinze-benin-yongera-kwiyunga-nabanyarwanda/"
+    },
+    {
+        "link1429": "https://imvahonshya.co.rw/afrique-agiye-gushyira-ahagaragara-alubumu-ye-ya-mbere/"
+    },
+    {
+        "link1430": "https://imvahonshya.co.rw/hashyizweho-ahantu-ho-kugurirwa-amatike-yigitaramo-umuryango-mwiza-live-concert/"
+    },
+    {
+        "link1431": "https://imvahonshya.co.rw/uko-rib-yatangiye-gukurikirana-abakoresha-nabi-imbuga-nkoranyamabaga-byashimishije-abazikurikira/"
+    },
+    {
+        "link1432": "https://imvahonshya.co.rw/urukumbuzi-rwatumye-igihozo-sylivia-yandikira-indirimbo-umukunzi-we/"
+    },
+    {
+        "link1433": "https://imvahonshya.co.rw/rib-yataye-muri-yombi-fatakumavuta/"
+    },
+    {
+        "link1434": "https://imvahonshya.co.rw/ibikorwa-bya-yvan-buravan-bigiye-gushyigikirwa-binyuze-muri-twaje-fest/"
+    },
+    {
+        "link1435": "https://imvahonshya.co.rw/israel-mbonyi-yaciye-agahigo-ko-gukurikirwa-cyane-kuri-youtube/"
+    },
+    {
+        "link1436": "https://imvahonshya.co.rw/aisha-asanga-igitera-abakobwa-gukunda-abasaza-ari-uko-babitaho-nkabana-bibyariye/"
+    },
+    {
+        "link1437": "https://imvahonshya.co.rw/yifuza-kumenyekana-nkumusizi-numuhanzi-icyarimwe/"
+    },
+    {
+        "link1438": "https://imvahonshya.co.rw/andy-bumuntu-ategerejwe-muri-gen-z-comedy/"
+    },
+    {
+        "link1439": "https://imvahonshya.co.rw/clarisse-karasira-yasabye-abakunzi-be-kumuhitiramo-indirimbo-nshya-yasohora/"
+    },
+    {
+        "link1440": "https://imvahonshya.co.rw/mu-rwanda-hagiye-kubera-inama-izungura-ubumenyi-abahanzi/"
+    }
+]

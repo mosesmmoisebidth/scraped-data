@@ -1,0 +1,242 @@
+[
+    {
+        "link1": "https://rw.amateka.net/inkwano-mu-rwanda-2/"
+    },
+    {
+        "link2": "https://rw.amateka.net/inkwano-mu-rwanda/"
+    },
+    {
+        "link3": "https://rw.amateka.net/gusaba-umugeniwubuntu/"
+    },
+    {
+        "link4": "https://rw.amateka.net/inkwano-gusaba-umugeni/"
+    },
+    {
+        "link5": "https://rw.amateka.net/imiryango-isumbana-cyane/"
+    },
+    {
+        "link6": "https://rw.amateka.net/umwanya-wababyeyi/"
+    },
+    {
+        "link7": "https://rw.amateka.net/ubukwe-mu-rwanda-hambere/"
+    },
+    {
+        "link8": "https://rw.amateka.net/ubukwe-bwabanyarwanda/"
+    },
+    {
+        "link9": "https://rw.amateka.net/umuvugo-16-8-iiumunsi-wa-karindwi-immana-iraruhuka-muntu-ayisingiza-mu-izina-lyibiremwa-byose-bitazi-ubwenge-aliko-nabyo-bikayisingiza-mu-mivugire-yabyoumuvugo-16-8-ii/"
+    },
+    {
+        "link10": "https://rw.amateka.net/umuvugo-15-7-ii-immana-iha-adamu-inema-ntagatifuza-kimwe-nttegeko-lyo-kumugerageza-limurinda-imbuto-yubumenyi-bwibi-nibyiza/"
+    },
+    {
+        "link11": "https://rw.amateka.net/umuvugo-13-5-ii-umunsi-wa-gatanu-wiremwa-lyijuru-nisi-imana-irema-ibiba-mu-mazi-nibiguruka-mu-kirere/"
+    },
+    {
+        "link12": "https://rw.amateka.net/umuvugo-12-4-iiumunsi-wa-kane-wiremwa-lyijura-nisi-imana-isoza-ibiremwa-byo-hejuru-byali-bitaranogerezwa/"
+    },
+    {
+        "link13": "https://rw.amateka.net/umuvugo-10-2-ii-umunsi-wa-kabili-wiremwa-lyijuru-immana-isobanura-amazi-yo-hasi-nayo-hejuru/"
+    },
+    {
+        "link14": "https://rw.amateka.net/umuvugo-10-2-ii-umunsi-wa-kabili-wiremwa-lyijuru-immana-isobanura-amazi-yo-hasi-nayo-hejuru-2/"
+    },
+    {
+        "link15": "https://rw.amateka.net/umuvugo-9-1-ni-umunsi-wa-mbere-wiremwa-lyijuru-nisi-iremwa-ly-urumuli/"
+    },
+    {
+        "link16": "https://rw.amateka.net/umuvugo-imyiyereko-y-imitwe-y-abamalayika-mu-biroli-byakulikiye-itsindwa-ly-amashitani/"
+    },
+    {
+        "link17": "https://rw.amateka.net/intwali-igaruka-bahunga/"
+    },
+    {
+        "link18": "https://rw.amateka.net/ibyivugo-byinteruro-2/"
+    },
+    {
+        "link19": "https://rw.amateka.net/umuvugo-7/"
+    },
+    {
+        "link20": "https://rw.amateka.net/umuvugo-6/"
+    },
+    {
+        "link21": "https://rw.amateka.net/umuvugo-5/"
+    },
+    {
+        "link22": "https://rw.amateka.net/umuvugo-3/"
+    },
+    {
+        "link23": "https://rw.amateka.net/3010-2/"
+    },
+    {
+        "link24": "https://rw.amateka.net/umuvugo-2/"
+    },
+    {
+        "link25": "https://rw.amateka.net/umuvugo-1/"
+    },
+    {
+        "link26": "https://rw.amateka.net/umulirimbyii-wa-nyili-ibiremwa-igitabo-cya-mbere/"
+    },
+    {
+        "link27": "https://rw.amateka.net/yuhi-v-musinga/"
+    },
+    {
+        "link28": "https://rw.amateka.net/2974-2/"
+    },
+    {
+        "link29": "https://rw.amateka.net/ibyivugo-byinteruro/"
+    },
+    {
+        "link30": "https://rw.amateka.net/intwali/"
+    },
+    {
+        "link31": "https://rw.amateka.net/iiid-hauts-faits/"
+    },
+    {
+        "link32": "https://rw.amateka.net/actes-de-bravoure/"
+    },
+    {
+        "link33": "https://rw.amateka.net/iiib-ibyivugo-bye-byinteruro/"
+    },
+    {
+        "link34": "https://rw.amateka.net/iii-ibigwi-nibirindiro/"
+    },
+    {
+        "link35": "https://rw.amateka.net/ii-inningwa/"
+    },
+    {
+        "link36": "https://rw.amateka.net/i-ibyivugo-les-odes-guerrieres/"
+    },
+    {
+        "link37": "https://rw.amateka.net/kwita-izina-cyangwa-guterura-umwana/"
+    },
+    {
+        "link38": "https://rw.amateka.net/umugore-ku-kiliri-no-gusohoka/"
+    },
+    {
+        "link39": "https://rw.amateka.net/umugore-uyaliye-limwe-numukazana-we/"
+    },
+    {
+        "link40": "https://rw.amateka.net/imihango-yumugore-mu-gihe-cyo-kubyara-ibindi/"
+    },
+    {
+        "link41": "https://rw.amateka.net/inkuli-kwuhagira-inda/"
+    },
+    {
+        "link42": "https://rw.amateka.net/iihango-yumugore-mu-gihe-cyo-kubyara/"
+    },
+    {
+        "link43": "https://rw.amateka.net/ibiheko/"
+    },
+    {
+        "link44": "https://rw.amateka.net/imiti-yumugore-utwite/"
+    },
+    {
+        "link45": "https://rw.amateka.net/imihango-yumugore-utwite/"
+    },
+    {
+        "link46": "https://rw.amateka.net/imihango-yumugore-wagiye-mu-mugongo/"
+    },
+    {
+        "link47": "https://rw.amateka.net/imihango-yumugore-numugabo-we/"
+    },
+    {
+        "link48": "https://rw.amateka.net/imihango-yumugabo-nindi-migenzo/"
+    },
+    {
+        "link49": "https://rw.amateka.net/imihango-yumugabo-numwana-we/"
+    },
+    {
+        "link50": "https://rw.amateka.net/imihango-yumugabo-numugore-we/"
+    },
+    {
+        "link51": "https://rw.amateka.net/impigi-nimigenzo-bikiza-indwara-zabantu/"
+    },
+    {
+        "link52": "https://rw.amateka.net/imihango-yumuntu-nindi-migenzo-nimizilirizo/"
+    },
+    {
+        "link53": "https://rw.amateka.net/imihango-yumuntu-nimvura-nurubura-ninkuba-numuyaga/"
+    },
+    {
+        "link54": "https://rw.amateka.net/imihngo-yumuntu-nibyo-mu-mulima/"
+    },
+    {
+        "link55": "https://rw.amateka.net/imihango-yumuntu-nibyo-mu-rugo-nibyo-munzu/"
+    },
+    {
+        "link56": "https://rw.amateka.net/imihango-yumuntu-nibyo-mu-mulima/"
+    },
+    {
+        "link57": "https://rw.amateka.net/imihango-nimigenzo-nimizililizo-ku-bantu-bazima-ninyamaswa/"
+    },
+    {
+        "link58": "https://rw.amateka.net/imihango-nimigenzo-nimizililizo/"
+    },
+    {
+        "link59": "https://rw.amateka.net/amahamba-yabungeri-bingurube/"
+    },
+    {
+        "link60": "https://rw.amateka.net/indyoheshabirayi-umuvugo-8/"
+    },
+    {
+        "link61": "https://rw.amateka.net/2562-2/"
+    },
+    {
+        "link62": "https://rw.amateka.net/indyoheshabirayi-umuvugo-7/"
+    },
+    {
+        "link63": "https://rw.amateka.net/indyoheshabirayi-umuvugo-6/"
+    },
+    {
+        "link64": "https://rw.amateka.net/indyoheshabirayi-umuvugo-5/"
+    },
+    {
+        "link65": "https://rw.amateka.net/indyoheshabirayi-umuvugo-4/"
+    },
+    {
+        "link66": "https://rw.amateka.net/indyoheshabirayi-umuvugo-3/"
+    },
+    {
+        "link67": "https://rw.amateka.net/indyoheshabirayi-umuvugo-2/"
+    },
+    {
+        "link68": "https://rw.amateka.net/indyoheshabirayi-umuvugo-1-2/"
+    },
+    {
+        "link69": "https://rw.amateka.net/indyoheshabirayi-umuvugo-1/"
+    },
+    {
+        "link70": "https://rw.amateka.net/inganji-karinga-igice-cya-iv/"
+    },
+    {
+        "link71": "https://rw.amateka.net/inganji-karinga-igice-cya-iii/"
+    },
+    {
+        "link72": "https://rw.amateka.net/inganji-karinga-igice-cya-ii/"
+    },
+    {
+        "link73": "https://rw.amateka.net/inganji-karinga-igice-cya-i/"
+    },
+    {
+        "link74": "https://rw.amateka.net/umurage-wumuco/"
+    },
+    {
+        "link75": "https://rw.amateka.net/akamaro-nuburanga-byumuco/"
+    },
+    {
+        "link76": "https://rw.amateka.net/umuco-karande/"
+    },
+    {
+        "link77": "https://rw.amateka.net/habaho-umuco-karande/"
+    },
+    {
+        "link78": "https://rw.amateka.net/habaho-umuco-mwiza-numuco-mubi/"
+    },
+    {
+        "link79": "https://rw.amateka.net/habaho-umuco-nyarwanda/"
+    },
+    {
+        "link80": "https://rw.amateka.net/umuco-nyarwanda/"
+    }
+]
